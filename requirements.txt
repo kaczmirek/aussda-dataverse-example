@@ -1,5 +1,5 @@
 requests
 jsonschema
 pyDataverse
-panda
+pandas
 numpy
