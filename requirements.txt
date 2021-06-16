@@ -3,3 +3,4 @@ jsonschema
 pyDataverse
 pandas
 numpy
+matplotlib
